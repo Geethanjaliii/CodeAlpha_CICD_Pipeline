@@ -60,4 +60,3 @@ Successfully implemented an automated CI/CD pipeline that integrates GitHub Acti
 Author
 
 Geethanjali V N
-CodeAlpha DevOps Internship

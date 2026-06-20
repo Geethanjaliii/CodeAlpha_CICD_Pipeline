@@ -16,7 +16,6 @@ Features
 * Version-controlled workflow automation
 
 Technologies Used
-
 * Python
 * Docker
 * GitHub Actions

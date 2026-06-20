@@ -54,7 +54,6 @@ Azure Services Used
 * Azure for Students Subscription
 
 Outcome
-
 Successfully implemented an automated CI/CD pipeline that integrates GitHub Actions with Microsoft Azure App Service, enabling streamlined application deployment and DevOps workflow automation.
 
 Author

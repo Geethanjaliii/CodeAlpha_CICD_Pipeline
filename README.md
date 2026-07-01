@@ -10,7 +10,7 @@ Features
 * Docker-based application deployment
 * Continuous integration and continuous deployment
 * Version-controlled workflow automation
-* 
+  
 Technologies Used
 * Python
 * Docker
